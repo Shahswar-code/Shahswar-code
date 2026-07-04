@@ -45,7 +45,7 @@ class Developer {
 - 🖥️ Desktop-first developer — C# / WinForms
 - 🧩 Also comfortable with Python & web frontend
 - 📈 Digital marketing skill set (HP LIFE certified)
-- 🎓 Prepping for IMSciences / NTS / ECAT
+- Artificial Intelligence (HP LIFE certified)
 - 🌍 Based in Khyber Pakhtunkhwa, Pakistan
 - 🛠️ Currently hardening a real-world business app
 
