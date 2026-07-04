@@ -24,7 +24,7 @@
 
 ### `whoami`
 
-I'm a developer building practical, production-grade software — mostly desktop applications in C# / WinForms, with frontend web work and Python development on the side. I also do digital marketing work, so I think about both the engineering and the go-to-market side of a product.
+I'm a developer building practical, production-grade software — mostly desktop applications in C# / WinForms, with frontend web work and Python automation on the side. I also do digital marketing work, so I think about both the engineering and the go-to-market side of a product.
 
 Right now I'm deep in **Finvora**, an installment-management business application, while also preparing for Pakistani university entry tests (IMSciences Peshawar and similar).
 
@@ -128,7 +128,7 @@ class Developer {
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shahswar-code&show_icons=true&theme=dark&hide_border=true&bg_color=0F0F1A&title_color=A0A0B8&icon_color=A0A0B8&text_color=E8E8E8" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahswar-code&theme=dark&hide_border=true&background=0F0F1A&stroke=0F0F1A&ring=A0A0B8&fire=A0A0B8&currStreakLabel=E8E8E8&sideLabels=E8E8E8&dates=6B6B8A" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Shahswar-code&theme=dark&hide_border=true&background=0F0F1A&stroke=0F0F1A&ring=A0A0B8&fire=A0A0B8&currStreakLabel=E8E8E8&sideLabels=E8E8E8&dates=6B6B8A" />
 
 <br/>
 
@@ -154,8 +154,10 @@ class Developer {
 
 ## Currently Focused On
 
+- 🔧 Refactoring Finvora's data layer to eliminate SQL injection risk and resource leaks
+- 🧠 Applying parameterized queries consistently across the codebase
+- 📚 Preparing for IMSciences / NTS / ECAT entry tests
 - 🎯 Sharpening full-stack fundamentals alongside desktop development
-- 
 
 <br/>
 
@@ -163,10 +165,10 @@ class Developer {
 
 <div align="center">
 
-<a href="shahswaribnesattar0370@gmail.com">
+<a href="mailto:your.email@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-1A1A2E?style=for-the-badge&logo=gmail&logoColor=A0A0B8" />
 </a>
-<a href="https://shahswar-code.github.io/CV.html/">
+<a href="https://your-portfolio-url.com">
   <img src="https://img.shields.io/badge/Portfolio-1A1A2E?style=for-the-badge&logo=vercel&logoColor=A0A0B8" />
 </a>
 <a href="https://instagram.com/your-instagram-handle">
@@ -179,7 +181,7 @@ class Developer {
 
 <div align="center">
 
-<img src="https://profile-counter.glitch.me/Shahswar-code/count.svg" alt="visitor count" />
+<img src="https://komarev.com/ghpvc/?username=Shahswar-code&label=Profile+Views&color=2D2D44&style=flat" alt="visitor count" />
 
 <br/><br/>
 
