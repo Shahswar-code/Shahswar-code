@@ -26,7 +26,7 @@
 
 I'm a developer building practical, production-grade software — mostly desktop applications in C# / WinForms, with frontend web work and Python automation on the side. I also do digital marketing work, so I think about both the engineering and the go-to-market side of a product.
 
-Right now I'm deep in **Finvora**, an installment-management business application, while also preparing for Pakistani university entry tests (IMSciences Peshawar and similar).
+Right now I'm deep in **Finvora**, an installment-management business application, while also doing my bachelors in Software Engineering from IMSCIENCES peshawar.
 
 ```txt
 class Developer {
