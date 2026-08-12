@@ -185,7 +185,7 @@ class Developer {
 
 <br/><br/>
 
-<i>"Simplicity is the soul of efficiency."</i> — Austin Freeman
+<i>"Coding is a journey, not a sprint"</i> 
 
 <br/><br/>
 
