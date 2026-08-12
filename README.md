@@ -100,7 +100,7 @@ class Developer {
 
 ### 💠 Finvora
 
-**An installment-management business application**, built from the ground up in C# / WinForms.
+**An installment-management business application**, built from the ground up in C# using Both WPF & WinForms.
 
 - Full dashboard, customer management, settings, and notifications system
 - SQL Server LocalDB backend with parameterized queries (actively being security-hardened)
@@ -114,7 +114,7 @@ class Developer {
 <img src="https://img.shields.io/badge/iTextSharp-1A1A2E?style=flat-square&logoColor=A0A0B8" />
 <img src="https://img.shields.io/badge/status-active%20development-2D2D44?style=flat-square" />
 
-📌 **Repo:** [github.com/Shahswar-code/Finvora](https://github.com/Shahswar-code/Finvora)
+📌 **Repo:** [github.com/Shahswar-code/Finvora-WPF-](https://github.com/Shahswar-code/Finvora-WPF-.git)
 
 </td>
 </tr>
