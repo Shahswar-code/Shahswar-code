@@ -24,13 +24,13 @@
 
 ### `whoami`
 
-I'm a developer building practical, production-grade software — mostly desktop applications in C# / WinForms, with frontend web work and Python automation on the side. I also do digital marketing work, so I think about both the engineering and the go-to-market side of a product.
+I'm a .NET developer building practical, production-grade software — mostly desktop applications using WPF & C#, with frontend web work and Python automation on the side. I also do digital marketing work, so I think about both the engineering and the go-to-market side of a product.
 
 Right now I'm deep in **Finvora**, an installment-management business application, while also doing my bachelors in Software Engineering from IMSCIENCES peshawar.
 
 ```txt
 class Developer {
-  stack      = ["C#", "WinForms", "SQL Server", "Python", "JS/HTML/CSS"];
+  stack      = ["C#", "WPF", "SQL Server", "Python", "JS/HTML/CSS"];
   currently  = "Refactoring Finvora for security + stability";
   learning   = "Full-stack patterns, cleaner architecture";
   interests  = ["Desktop apps", "Automation", "Digital marketing"];
@@ -42,7 +42,8 @@ class Developer {
 
 ### Quick facts
 
-- 🖥️ Desktop-first developer — C# / WinForms
+- Microsoft Verified C# Programmer
+- 🖥️ .NET Desktop-first developer — C# / WPF
 - 🧩 Also comfortable with Python & web frontend
 - 📈 Digital marketing skill set (HP LIFE certified)
 - Artificial Intelligence (HP LIFE certified)
@@ -155,8 +156,7 @@ class Developer {
 ## Currently Focused On
 
 - 🔧 Refactoring Finvora's data layer to eliminate SQL injection risk and resource leaks
-- 🧠 Applying parameterized queries consistently across the codebase
-- 📚 Preparing for IMSciences / NTS / ECAT entry tests
+- 📚 Doing my Bachelors in Software Engineering from IMSCIENCES (Peshawar)
 - 🎯 Sharpening full-stack fundamentals alongside desktop development
 
 <br/>
