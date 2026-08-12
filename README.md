@@ -11,7 +11,7 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Location-Khyber%20Pakhtunkhwa%2C%20Pakistan-1A1A2E?style=for-the-badge&labelColor=0F0F1A&color=2D2D44" />
-<img src="https://img.shields.io/badge/Focus-Desktop%20%26%20Web%20Apps-1A1A2E?style=for-the-badge&labelColor=0F0F1A&color=2D2D44" />
+<img src="https://img.shields.io/badge/Focus-Desktop%20%26%20Android%20Apps-1A1A2E?style=for-the-badge&labelColor=0F0F1A&color=2D2D44" />
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-1A1A2E?style=for-the-badge&labelColor=0F0F1A&color=2D2D44" />
 
 </div>
